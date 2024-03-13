@@ -31,7 +31,7 @@
 - **Engine** : Apache Tomcat Server
 - **Tool** : Eclipse
 <br><br>
-![](https://github.com/RiYaZe123/live-rary/assets/130757327/d66f6f42-2378-499d-b9bc-6f49f8fc0f5d)
+![](https://github.com/RiYaZe123/live-rary/assets/130757327/a4c2cf28-c027-4d47-80ee-1d6a5ed37f9c)
 
 ## 3. 팀원
 - - -
